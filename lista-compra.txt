@@ -4,3 +4,4 @@ aceite
 vinagre
 sal
 atún
+huevos
